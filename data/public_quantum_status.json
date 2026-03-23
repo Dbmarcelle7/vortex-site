@@ -1,4 +1,44 @@
 {
-  "status": "live",
-  "system": "quantum-core"
+  "generated_at": "2026-03-22T22:00:00Z",
+  "system": "Quantum Core",
+  "status": "active",
+  "public_mode": true,
+  "engines": [
+    {
+      "name": "Superposition Layer",
+      "state": "active",
+      "description": "Quantum-inspired parallel state evaluation and pattern ranking."
+    },
+    {
+      "name": "Cubit Engine",
+      "state": "active",
+      "description": "Multi-dimensional symbolic and structural interpretation engine."
+    },
+    {
+      "name": "SHA Integrity Mesh",
+      "state": "active",
+      "description": "Integrity-aware hashing and trace verification layer."
+    },
+    {
+      "name": "Multi-Dimensional Signal Stack",
+      "state": "active",
+      "description": "High-level signal, entropy, and symbolic relationship modeling."
+    }
+  ],
+  "glyphs": [
+    "↯",
+    "𐤏",
+    "∞"
+  ],
+  "metrics": {
+    "entropy": 2.88,
+    "signal_state": "stable",
+    "integrity": "verified",
+    "public_summary": "enabled"
+  },
+  "notes": [
+    "Public summary only",
+    "Sensitive raw data withheld",
+    "Private keys and internal artifacts excluded"
+  ]
 }
